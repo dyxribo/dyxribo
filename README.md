@@ -5,7 +5,7 @@ Former Google tech | Full-stack tinkerer | Homelab architect | Dad x2
 
 ---
 
-I'm a hands-on engineer who loves building, fixing, and automating everything from networks to web apps. By day, I'm an IT support tech. By night, I'm deep in TypeScript and Express, optimizing my home infrastructure, and explaining black holes to my kids.
+I'm a hands-on engineer who loves building, fixing, and automating everything from networks to web apps. By day, I'm an IT support tech. By night, I'm deep in TypeScript and Express, optimizing and maintaining my home infrastructure, and explaining black holes to my kids.
 
 ### 🛠️ Tech Stack
 
