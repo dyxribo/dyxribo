@@ -11,22 +11,22 @@ I'm a hands-on engineer who loves building, fixing, and automating everything fr
   
 PROGRAMMING & SCRIPTING LANGUAGES:
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-![ActionScript](https://img.shields.io/badge/-ActionScript-ED1D25?logo=adobe&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+[![ActionScript](https://img.shields.io/badge/-ActionScript-ED1D25?logo=adobe&logoColor=white)](#)
+[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
 FRAMEWORKS:
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
@@ -35,9 +35,9 @@ FRAMEWORKS:
 
 SERVERS:
 
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
-![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?logo=wireguard&logoColor=white)
-![Keycloak](https://img.shields.io/badge/-Keycloak-000000?logo=keycloak&logoColor=white)
+[![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)](#)
+[![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?logo=wireguard&logoColor=white)](#)
+[![Keycloak](https://img.shields.io/badge/-Keycloak-000000?logo=keycloak&logoColor=white)](#)
 
 DATABASES:
 
