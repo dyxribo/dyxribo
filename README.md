@@ -16,6 +16,7 @@ LANGS:
 ![ActionScript](https://img.shields.io/badge/-ActionScript-ED1D25?logo=adobe&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
