@@ -62,9 +62,8 @@ PACKAGE MANAGERS:
 
 ### 🔍 Focus Areas
 - 🔐 secure identity/auth flows (SSO, RBAC, token strategies)
-- 🗺️ interactive, map-based web apps
 - 🤖 home automation and connectivity (homelab)
-- 🧰 hardware repair + freelance tooling
+- 🧰 hardware repair & electronics engineering
 - 🧪 weird side projects, always
 ---
 
