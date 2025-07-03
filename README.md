@@ -1,6 +1,6 @@
 # Hey, I'm Deron!
 
-Former Google tech | Full-stack tinkerer | Homelab architect | Dad x2  
+Full-stack tinkerer | Homelab architect | Dad x2  
 🔗 [derondecamp.com](https://derondecamp.com)
 
 ---
