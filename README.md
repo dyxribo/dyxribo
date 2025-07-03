@@ -1,11 +1,11 @@
 # Hey, I'm Deron!
 
-Full-stack tinkerer | Homelab architect | Dad x2  
+full-stack tinkerer | homelab architect | dad x2  
 🔗 [derondecamp.com](https://derondecamp.com)
 
 ---
 
-I'm a hands-on engineer who loves building, fixing, and automating everything from networks to web apps. By day, I'm an IT support tech. By night, I'm deep in TypeScript and Express, optimizing and maintaining my home infrastructure, and explaining black holes to my kids.
+i'm a hands-on engineer who loves building, fixing, and automating everything from networks to web apps. by day, i'm a Desktop Support Engineer. by night, i'm deep in TypeScript and Express, optimizing and maintaining my home infrastructure, and explaining black holes to my kids.
 
 ### 🛠️ Tech Stack
   
@@ -21,14 +21,14 @@ PROGRAMMING & SCRIPTING LANGUAGES:
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 
 FRAMEWORKS:
 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=fff)](#)
 [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
@@ -57,17 +57,17 @@ PACKAGE MANAGERS:
 
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](#)
-
+[![Chocolatey](https://img.shields.io/badge/chocolatey-blue?message=%20&logo=chocolatey&logoColor=white&style=round-square&colorA=5c9fd8&colorB=734a1f)](#)
 ---
 
 ### 🔍 Focus Areas
-- 🔐 Secure identity/auth flows (SSO, RBAC, token strategies)
-- 🗺️ Interactive, map-based web apps
-- 🤖 Home automation & network observability
-- 🧰 IT repair + freelance tooling
-- 🧪 Weird side projects, always
+- 🔐 secure identity/auth flows (SSO, RBAC, token strategies)
+- 🗺️ interactive, map-based web apps
+- 🤖 home automation and connectivity (homelab)
+- 🧰 hardware repair + freelance tooling
+- 🧪 weird side projects, always
 ---
 
-> “Sometimes the fix is `rm -rf`.”
+> “sometimes the fix is `rm -rf`.”
 
-📫 Hit me up via [dyxribo@blaxstar.net](mailto:dyxribo@blaxstar.net) — always down to collaborate, debug, or brainstorm.
+📫 hit me up via [dyxribo@blaxstar.net](mailto:dyxribo@blaxstar.net) — always down to collaborate, debug, or brainstorm.
