@@ -55,9 +55,11 @@ OPERATING SYSTEMS:
 
 PACKAGE MANAGERS:
 
+[![Node Version Manager](https://img.shields.io/badge/node%20version%20manager-318C31?message=%20&logo=nvm&logoColor=white&style=round-square)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](#)
 [![Chocolatey](https://img.shields.io/badge/chocolatey-blue?message=%20&logo=chocolatey&logoColor=white&style=round-square&colorA=5c9fd8&colorB=734a1f)](#)
+
 ---
 
 ### 🔍 Focus Areas
