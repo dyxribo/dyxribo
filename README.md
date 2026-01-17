@@ -15,17 +15,17 @@ PROGRAMMING & SCRIPTING LANGUAGES:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
-[![ActionScript](https://img.shields.io/badge/-ActionScript-ED1D25?logo=adobe&logoColor=white)](#)
+
 [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)](#)
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![ActionScript](https://img.shields.io/badge/-ActionScript-ED1D25?logo=adobe&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+
 
 FRAMEWORKS:
 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](#)
+[![Astro](https://img.shields.io/badge/Astro-341377?logo=astro)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
@@ -54,18 +54,18 @@ OPERATING SYSTEMS:
 
 PACKAGE MANAGERS:
 
-[![Node Version Manager](https://img.shields.io/badge/node%20version%20manager-318C31?message=%20&logo=nvm&logoColor=white&style=round-square)](#)
+[![nvm](https://img.shields.io/badge/nvm-318C31?message=%20&logo=nvm&logoColor=white&style=round-square)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](#)
 [![Chocolatey](https://img.shields.io/badge/chocolatey-blue?message=%20&logo=chocolatey&logoColor=white&style=round-square&colorA=5c9fd8&colorB=734a1f)](#)
 
 ---
 
-### 🔍 Focus Areas
-- 🔐 secure identity/auth flows (SSO, RBAC, token strategies)
-- 🤖 home automation and IOT (homelab)
-- 🧰 hardware repair & electronics engineering
-- 🧪 weird side projects that incorporate the last 3 bullets
+### Focus Areas
+- secure identity/auth flows
+- home automation, domain management, networking, and IOT (homelab)
+- hardware repair & electronics engineering
+- weird side projects that incorporate the last 3 bullets
 ---
 
 > “sometimes the fix is `rm -rf`.”
